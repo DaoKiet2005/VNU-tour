@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/anh-dep-10.jpg.webp') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 400px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    color: white;
+    background: url('https://moc247.com/wp-content/uploads/2023/12/hinh-nen-mau-xanh_2.jpg') no-repeat center center fixed;
+}
+
+.header-image {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.content {
+    color: #333;
+    line-height: 1.2;
+    font-size: 15px;
+}
+
+.content p {
+    margin: 10px 0;
+}
+
+.content a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+strong {
+    color: #333;
+}
+
+strong.highlight {
+    color: red;
+}
